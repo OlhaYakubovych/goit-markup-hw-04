@@ -84,7 +84,7 @@ body {
 
 .header-div {
   display: flex;
-  align-items: center;
+  align-items: baseline;
 }
 
 .header-logo {
@@ -138,6 +138,7 @@ body {
 .header-contacts-list {
   display: flex;
   margin-left: auto;
+  align-items: baseline;
 }
 
 .header-contacts-item + .header-contacts-item {
